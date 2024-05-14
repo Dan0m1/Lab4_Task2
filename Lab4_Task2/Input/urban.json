@@ -1,0 +1,14 @@
+﻿[
+  {
+    "LicensePlate": "AA0034AB",
+    "FuelConsumptionPer100Km": 18.5,
+    "NumberOfSeats": 30,
+    "ScheduleIdentifier": "A12"
+  },
+  {
+    "LicensePlate": "AA0451AB",
+    "FuelConsumptionPer100Km": 18,
+    "NumberOfSeats": 30,
+    "ScheduleIdentifier": "A13"
+  }
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "LicensePlate": "AK4551AB",
+    "FuelConsumptionPer100Km": 20,
+    "NumberOfSeats": 40,
+    "ScheduleIdentifier": "B12"
+  },
+  {
+    "LicensePlate": "AA0067AC",
+    "FuelConsumptionPer100Km": 21,
+    "NumberOfSeats": 42,
+    "ScheduleIdentifier": "B13"
+  }
+]
